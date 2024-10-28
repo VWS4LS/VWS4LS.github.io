@@ -6,7 +6,7 @@ Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Asset Administr
 
 ![image](https://github.com/user-attachments/assets/5af587f1-70ea-4852-8fba-e0884b340efd)
 
-Die detaillierten Ergebnisse der Teilprojekte finden sich [hier](https://vws4ls.github.io/vws4ls-subproject-results/README.md), ebenso der [Gesamtbericht als PDF](VWS4LS_Abschlussbericht_Gesamtprojekt.pdf). 
+Die detaillierten Ergebnisse der Teilprojekte finden sich [hier](https://vws4ls.github.io/vws4ls-subproject-results/README.md), ebenso der [Gesamtbericht als PDF](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf). 
 
 ## Inhalt
 - [Überblick](#überblick)

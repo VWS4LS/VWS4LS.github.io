@@ -41,21 +41,14 @@ Die Projektlaufzeit war von Dezember 2021 bis Ende November 2024 angesetzt, mit 
 ## Projektpartner
 ![image](https://github.com/user-attachments/assets/e5ec3a97-2130-4a49-a64d-dbc4d49ad079)
 
-\- [Coroplast Fritz Müller GmbH & Co. KG](https://www.coroplast-group.com/de/wewire/)
-
-\- [DilT GmbH](https://www.diit.de/)
-
-\- [Lisa Dräxlmaier GmbH](https://www.draexlmaier.com/produkte/electrical-systems)
-
-\- [Festo SE & Co. KG](https://www.festo.com/de/de/)
-
-\- [Komax Testing Germany GmbH](https://www.komaxgroup.com/products/testing)
-
-\- [Kostal Kontaktsysteme GmbH](https://www.kostal-kontakt-systeme.com/de-de/)
-
-\- [Kromberg & Schubert Automotiv GmbH Co. KG](https://www.kromberg-schubert.de/loesungen/bordnetze)
-
-\- [Wezag GmbH & Co. KG](https://www.wezag.de/wdt-crimpen-machinen/)
+- [Coroplast Fritz Müller GmbH & Co. KG](https://www.coroplast-group.com/de/wewire/)
+- [DilT GmbH](https://www.diit.de/)
+- [Lisa Dräxlmaier GmbH](https://www.draexlmaier.com/produkte/electrical-systems)
+- [Festo SE & Co. KG](https://www.festo.com/de/de/)
+- [Komax Testing Germany GmbH](https://www.komaxgroup.com/products/testing)
+- [Kostal Kontaktsysteme GmbH](https://www.kostal-kontakt-systeme.com/de-de/)
+- [Kromberg & Schubert Automotiv GmbH Co. KG](https://www.kromberg-schubert.de/loesungen/bordnetze)
+- [Wezag GmbH & Co. KG](https://www.wezag.de/wdt-crimpen-machinen/)
 
 Die [Mercedes-Benz AG](https://group.mercedes-benz.com/de/) und [Siemens AG](https://www.siemens.com/de/de/produkte/automatisierung/industrie-software/automatisierungs-software.html) als assoziierte Partner engagieren sich aus der [Innovationsinitiative Leitungssatz](https://arena2036.de/de/innovationsinitiative-leitungssatz) heraus als OEM sowie Hersteller digitaler Tools.
 
@@ -63,8 +56,9 @@ Die [Mercedes-Benz AG](https://group.mercedes-benz.com/de/) und [Siemens AG](htt
 ## Projektziel
 Ziel von VWS4LS ist die prototypische Implementierung der Verwaltungsschale in Entwicklung, Produktion und Montage des Leitungssatzes im Fahrzeug entlang von 5 wesentlichen Anwendungsfällen, die aus Sicht der Leitungssatz-Akteure besondere Herausforderungen, aber auch Potenziale für die Verwaltungsschale beinhalten.
 
-| Use Case 1 | Kollaborative Entwicklung zwischen Original Equipment Manufacturer (OEM), Konfektionär, Komponentenlieferanten |
+| | |
 | --- | --- |
+| Use Case 1 | Kollaborative Entwicklung zwischen Original Equipment Manufacturer (OEM), Konfektionär, Komponentenlieferanten |
 | Use Case 2 | Berücksichtigung der automatisierten Produktionsfähigkeit im Engineering |
 | Use Case 3 | Automatisierung des Änderungsmanagements entlang der gesamten Wertkette |
 | Use Case 4 | Automatisierung von flexiblen und modularen Produktionsabläufen |

@@ -8,7 +8,7 @@ Die Veranstaltung bot nicht nur theoretische Einblicke, sondern auch praxisnahe 
 
 ![image](https://github.com/user-attachments/assets/6426d070-5399-4832-a404-d39feae9eea2)
 
-Der rund 400-seitige [Ergebnisbericht](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf) wurde dem Projektträger **VDI e.V.** offiziell übergeben und soll nun in etablierten Arbeitsgruppen und Netzwerken der Branche weiterentwickelt werden.  
+Der rund 400-seitige [Ergebnisbericht](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf) wurde **Fabian Hammel** vom Projektträger **VDI e.V.** offiziell übergeben.  
 
 ![image](https://github.com/user-attachments/assets/2e02baec-6bfc-410e-8d63-5c750c8f0187)
 

@@ -33,17 +33,23 @@ Nach der Mittagspause gab **Christian Kosel** eine funktionale Vorstellung des G
 Nachfolgend präsentierten **Mario Angos (Coroplast)** und **Lena Beil (Dräxlmaier)** anschaulich, wie die Anbindung der LS-VWS an den B2B-Datenraum Catena-X erfolgen kann.    
 [(Link zur Präsentation)](VWS4LS_Ergebnis2.pdf)     
 
+![image](https://github.com/user-attachments/assets/988f56ed-70be-47c8-9d73-2ea864224645)
+
 **Ergebnis 3 – Beschreibung von Capabilities für Produkt, Prozess und Ressourcen**                                              
 In diesem Vortrag ging **Matthias Freund (Festo)** auf die Modellierung von Fähigkeiten (Capabilities) für Produkte, Prozesse und Ressourcen ein, welche im Laufe der Digitalisierung des Leitungssatz-Entstehungsprozesses notwendig werden.    
 [(Link zur Präsentation)](VWS4LS_Ergebnis3.pdf)     
 
 **Ergebnis 4 – Entwicklung und Anwendung der OPC-UA Companion Specification for Wiring Harness**      
-Wie eine Produktionsmaschine auch automatisiert angesteuert werden kann, erläuterte dann Pascal Neuperger (Komax) in seinem darauffolgenden Vortrag über die in VWS4LS entstandene neue OPC-UA Companion Specification for Wiring Harness.    
+Wie eine Produktionsmaschine auch automatisiert angesteuert werden kann, erläuterte dann **Pascal Neuperger (Komax)** in seinem darauffolgenden Vortrag über die in VWS4LS entstandene neue OPC-UA Companion Specification for Wiring Harness.    
 [(Link zur Präsentation)](VWS4LS_Ergebnis4.pdf)    
+
+![image](https://github.com/user-attachments/assets/a557653c-dab7-4679-b13f-1f2980bae300)
 
 **Ergebnis 5 – Automatisierten Verhandlungsverfahren in der Produktion**   
 **Gerd Neudecker (Kromberg & Schubert)** und **Melanie Stolze (ifak Magdeburg)** referierten über automatisierte Verhandlungsverfahren in der Produktion und wie diese im Projekt protokolltechnisch mit Hilfe von Verwaltungsschale und I40-Sprache gelöst wurden.    
-[(Link zur Präsentation)](VWS4LS_Ergebnis5.pdf)                                              
+[(Link zur Präsentation)](VWS4LS_Ergebnis5.pdf)      
+
+![image](https://github.com/user-attachments/assets/2e7a622e-9673-4834-86f6-02f6385acd9e)
 
 **Ergebnis 6 – Integration der Domänen-Standards „KBL“ und „VEC“**   
 Da “Kabelbaumliste” (KBL) und “Vehicle Electric Container” (VEC) in der Automobilbranche etablierte Formate für die Spezifikation von Leitungssätzen sind, ist eine entscheidende Voraussetzung für die Akzeptanz von Lösungen nach dem Prinzip der Verwaltungsschale die Integration dieser bestehenden Standards. **Dr. Matthias Freund ( Festo SE & Co KG)** erläuterte die im Projekt VWS4LS diesbezüglich erarbeiteten Konzepte beispielhaft an einer dreiadrigen Leitung, die im Projekt auch an weiteren Stellen als Referenzbeispiel diente.    

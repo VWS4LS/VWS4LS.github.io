@@ -3,4 +3,4 @@ An der Präsentation beteiligten sich beteiligten Unternehmen der Branche, darun
 
 Die Veranstaltung bot nicht nur theoretische Einblicke, sondern auch praxisnahe Demonstrationen, die die Möglichkeiten der Verwaltungsschale verdeutlichten. Die präsentierten Ergebnisse werden unten zur Verfügung gestellt, inklusive der Aufzeichnungen der Vorträge.  
 
-Der rund 200-seitige [Ergebnisbericht](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Projektverlaengerung_2025_06_30.pdf) wurde dem Projektträger **VDI e.V.** offiziell übergeben.  
+Der rund 200-seitige [Ergebnisbericht](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Projektverlaengerung.pdf) wurde dem Projektträger **VDI e.V.** offiziell übergeben.  

@@ -6,7 +6,27 @@ Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Asset Administr
 
 ![image](https://github.com/user-attachments/assets/5af587f1-70ea-4852-8fba-e0884b340efd)
 
-Die detaillierten Ergebnisse der Teilprojekte finden sich [hier](https://vws4ls.github.io/vws4ls-subproject-results), ebenso der [Gesamtbericht als PDF](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf) sowie der [Bericht zur Ergebnistagung am 15. Oktober 2024](https://vws4ls.github.io/2024_10_15_Ergebnistagung). 
+**[Projektübersicht](https://vws4ls.github.io/)**
+
+Die detaillierten Ergebnisse der Teilprojekte finden sich [hier](https://vws4ls.github.io/vws4ls-subproject-results), ebenso der [Bericht zum Hauptprojekt als PDF (TP01-TP10)](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf), der [Bericht zur Ergebnistagung am 15. Oktober 2024](https://vws4ls.github.io/2024_10_15_Ergebnistagung). 
+und der [Bericht zur Projektverlängerung als PDF (TP11-TP14)](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Projektverlaengerung.pdf)
+
+
+## Liste der VWS4LS-Repositories:
+* [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
+* [https://github.com/VWS4LS/vws4ls-submodel-templates] (Library of submodel templates implemented in C#)
+* [https://github.com/VWS4LS/vws4ls-bidding-process] (Java)
+* [https://github.com/VWS4LS/vws4ls-process-service] (Java)
+* [https://github.com/VWS4LS/vws4ls-data-validation] (Java)
+* [https://github.com/VWS4LS/vws4ls-capability-matching] (JavaScript)
+* [https://github.com/VWS4LS/vws4ls-opcua] (XSLT)
+* [https://github.com/VWS4LS/vws4ls-aaspe-plugin] (C#)
+* [https://github.com/VWS4LS/vws4ls-demonstrator] (Java, Dockerfile)
+* [https://github.com/VWS4LS/vws4ls-changemanagement] (Vue, Typescript)
+* [https://github.com/VWS4LS/vws4ls-event-infrastructure] (Java))
+
+
+[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die detaillierte Ergebnis-Dokumentation zum Projekt VWS4LS bereit, inklusive die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien. 
 
 ## Inhalt
 - [Überblick](#überblick)
@@ -242,11 +262,46 @@ _Abbildung: Transfer-X Lernmodule](https://ilias.fraunhofer.de/ilias.php?baseCla
 
 **[Detaildokumentation TP10](https://vws4ls.github.io/vws4ls-subproject-results/TP10/)**   
 
+## <a name="TP11"></a>Anbindung an Catena-X
+Das [TP11 "Anbindung an Catena-X"](https://vws4ls.github.io/vws4ls-subproject-results/TP11/) beschäftigte sich mit der der Kombination der technologische Bausteine Verwaltungsschale und Eclipse-Dataspace Connector (EDC), um diese gemeinsam zu nutzen und vor allem das Accessmanagement bis auf Attributebene zu ermöglichen.
+<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/3ba31876-804f-429f-8f0b-c282218e55fe" />    
+_Abbildung: Anbindung VWS an Catena-X_  
+
+**[Detaildokumentation TP11](https://vws4ls.github.io/vws4ls-subproject-results/TP11/)**   
+
+## <a name="TP12"></a>Produktkatalog mit der VWS
+Das [TP12 "Produktkatalog mit der VW"](https://vws4ls.github.io/vws4ls-subproject-results/TP12/) umfasste alle Aktivitäten zur Sicherstellung des Transfers und der Koordination der Projektergebnisse. Im Fokus standen der kontinuierliche Basistransfer, die Entwicklung und Bereitstellung von allgemeinen und leitungssatzspezifischen Implementierungspaketen sowie die Ergebnisintegration und Koordination. Damit konnten die Ergebnisse des Projekts effektiv verbreitet und nachhaltig in den industriellen und öffentlichen Raum überführt werden. Zu VWS4LS und weiteren relevanten Begleitthemen (z.B. Catena-X) wurden über [Transfer-X](https://transfer-x.de/) hochwertige Lernmodule bereitgestellt:
+
+![image](https://github.com/user-attachments/assets/66a8a6e4-f686-4dac-875a-86e7e18c47e4)       
+_Abbildung: VWS im Beschaffungsprozess der Leitungssatz-Wertkette_
+
+**[Detaildokumentation TP12](https://vws4ls.github.io/vws4ls-subproject-results/TP12/)**   
+
+## <a name="TP13"></a>Standards und Middleware
+Im [TP13 „Standards und Middleware“](https://github.com/VWS4LS/vws4ls-subproject-results/tree/main/TP13) wurden Lösungsansätze für die Anwendung von Branchenstandards und Normen zur Beschreibung von Informationsfragmenten in der Verwaltungsschale erarbeitet.
+So wurde untersucht, inwieweit Aspektmodelle und VWS-Submodelle für verschiedene Technologien – wie EDC und VWS – geeignet sind und ob beide Ansätze parallel oder jeweils nur einer davon eingesetzt werden kann. Weiterhin wurde der aktuelle Entwicklungsstand der OPC-UA Companion Specification für die Wiring Harness Industrie dargestellt, um einen umfassenden Überblick über den Stand der Standardisierung und Interoperabilität in diesem Bereich zu geben. Darüber hinaus werden vorhandene semantische Beschreibungen, wie beispielsweise der VEC (Vehicle Electric Container), ECLASS und IEC, auf ihre Kompatibilität und ihren Mehrwert für die Verwaltungsschale geprüft. 
+Ein weiterer Fokus lag auf der Analyse und dem Vergleich von bereits etablierten Lösungen wie Eclipse BaSyx, dem AAS-Designer sowie MNESTIX, um die Einsatzmöglichkeiten der Verwaltungsschale (VWS) in der industriellen Praxis zu bewerten und diese Tool-Lösungen weiterzuentwickeln. 
+
+![image](https://github.com/user-attachments/assets/670adad0-3c1a-447e-a295-740e8bb07c4d)     
+_Abbildung: BaSyx: Neue AAS Editor Funktionalitäten_
+
+**[Detaildokumentation TP13](https://vws4ls.github.io/vws4ls-subproject-results/TP13/)**   
+
+## <a name="TP14"></a>Demonstrator
+Im [TP14 "Demonstrator"](https://vws4ls.github.io/vws4ls-subproject-results/TP14/) stand die Weiterentwicklung des Demonstrators  im Mittelpunkt, wobei unter anderem eine Crimp-Maschine, eine BaSyx-Umgebung mit einem neu entwickelten Frontend sowie eine Komax Alpha-Simulation zum Einsatz kamen.
+Die Schwerpunkte des TPs lagen darauf, die Usability des BaSyx-Frameworks für den potenziellen Nutzer entlang des Produktionsprozesses anwenderfreundlicher zu gestalten. Die einzelnen Handlungsschritte der Workflow-gesteuerten Auftragsabwicklung sollten dargestellt, nachvollziehbarer und die notwendigen Informationen pro Prozessschritt aggregiert werden. Darüber hinaus wurde ein Proof of Concept für das Änderungsmanagement entwickelt.
+
+![VWS4LS_TP14_Events_1](https://github.com/user-attachments/assets/10889e10-082d-45ad-bc96-59f8f046058a)     
+_Abbildung: VWS und Events_
+
+**[Detaildokumentation TP14](https://vws4ls.github.io/vws4ls-subproject-results/TP14/)**   
 
 # Publikationen
 
 **Folgende Publikationen erfolgten im Rahmen des Projekts VWS4LS:**
 
+-   Melanie Stolze, Niklas Ritz, Alexander Belyaev, Rene-Pascal Fischer, Christian Kosel, Raghavendra Ungarala , "**Towards an AAS Event Mechanism: A proposal to extend the AAS specification**", 2025 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Porto, Portugal, 2025.
+-   Markus Rentschler, Alwin Hoffmann, Moritz Hofer, "**Utilization of Asset Adminstration Shells for e-Commerce Applications**", 2025 30th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Porto, Portugal, 2025.
 -   M. Angos-Mediavilla, M. Gorenzweig, L. Beil, C. Kosel, A. Pomp, M. Freund und T. Meisen, „**Enabling Value Chain Interoperability: Integrating and evaluating robust Data Governance aspects into the Asset Administration Shell**“ in *Springer Lecture Notes in Computer Science*, 2025. 
 -   Salinas Segura, A., Angos Mediavilla, M., Braun, L., Freund, M., Kosel, C., Rodriguez, M. (2024). “**A Process Model for Deriving Asset Administration Shells for Inter-company Collaboration – A Practical Approach**”; In: Yilmaz, M., Clarke, P., Riel, A., Messnarz, R., Greiner, C., Peisl, T. (eds) Systems, Software and Services Process Improvement. EuroSPI 2024. Communications in Computer and Information Science, vol 2180. Springer, Cham. <https://doi.org/10.1007/978-3-031-71142-8_16> 
 -   Melanie Stolze, Alexander Belyaev, Christian Kosel, Christian Diedrich, Alfred Barnard, "**Realizing automated production planning via proactive AAS and Business Process Models**", 2024 29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), Padua, Italy, 2024. 

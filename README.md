@@ -44,6 +44,8 @@ und der [Bericht zur Projektverlängerung als PDF (TP11-TP14)](https://vws4ls.gi
   - [Anbindung an Catena-X: Lösungsansatz für die Verwaltungsschalen-basierte Zusammenarbeit im Datenraum](#TP08)
   - [Demonstrator zur Pilotierung und Erprobung](#TP09)
   - [Transfer und Koordination](#TP10)
+  - [Produktkatalog mit der VWS](#TP12)
+  - [Standards und Middleware](#TP13)
 - [Publikationen](#publikationen) 
 - [Veranstaltungen](#veranstaltungen)
   
@@ -242,14 +244,27 @@ _Abbildung: Catena-X Lösungsportfolio (Quelle: https://catena-x.net/de/offers)_
 
 **[Detaildokumentation TP8](https://vws4ls.github.io/vws4ls-subproject-results/TP08/)**   
 
+Das [TP11 "Anbindung an Catena-X"](https://vws4ls.github.io/vws4ls-subproject-results/TP11/) beschäftigte sich mit der der Kombination der technologische Bausteine Verwaltungsschale und Eclipse-Dataspace Connector (EDC), um diese gemeinsam zu nutzen und vor allem das Accessmanagement bis auf Attributebene zu ermöglichen.
+<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/3ba31876-804f-429f-8f0b-c282218e55fe" />    
+_Abbildung: Anbindung VWS an Catena-X_  
+
+**[Detaildokumentation TP11](https://vws4ls.github.io/vws4ls-subproject-results/TP11/)**   
+
 
 ## <a name="TP09"></a>Demonstrator zur Pilotierung und Erprobung
-Das [TP9 "Pilotierung, Erprobung, Demonstrator"](https://vws4ls.github.io/vws4ls-subproject-results/TP09/) fokussierte sich der Konzeptionierung und Umsetzung eines Demonstrators in mehreren Ausbaustufen über die gesamte Projektlaufzeit hinweg. Der Demonstrator enthält dabei sowohl physische als auch digitale Anteile. Insgesamt wurden 4 Demonstratorprojekte durchgeführt, wobei sich der physische Aufbau des Demonstrators seit Fertigstellung von Stufe 2 kaum mehr veränderte. Der Hauptteil der Veränderung erfolge dann vor allem [softwareseitig](https://github.com/orgs/VWS4LS/repositories). 
+Das [TP9 "Pilotierung, Erprobung, Demonstrator"](https://vws4ls.github.io/vws4ls-subproject-results/TP09/) fokussierte sich der Konzeptionierung und Umsetzung eines Demonstrators in mehreren Ausbaustufen über die gesamte Projektlaufzeit hinweg. Der Demonstrator enthält dabei sowohl physische als auch digitale Anteile. Insgesamt wurden 4 Demonstratorprojekte durchgeführt, wobei sich der physische Aufbau des Demonstrators seit Fertigstellung von Stufe 2 kaum mehr veränderte, wobei unter anderem eine Crimp-Maschine, eine BaSyx-Umgebung mit einem neu entwickelten Frontend und eine Komax Alpha-Simulation zum Einsatz kamen. Der Hauptteil der Veränderung erfolge dann vor allem [softwareseitig](https://github.com/orgs/VWS4LS/repositories). 
 
 ![image](https://github.com/user-attachments/assets/d53e0b39-82ea-48ca-a812-a8bb65df2492)   
 _Abbildung: Übersicht Demonstrator_
 
 **[Detaildokumentation TP9](https://vws4ls.github.io/vws4ls-subproject-results/TP09/)**   
+
+Im [TP14 "Demonstrator"](https://vws4ls.github.io/vws4ls-subproject-results/TP14/) stand die Weiterentwicklung des Demonstrators  im Mittelpunkt. Die Schwerpunkte lagen darauf, die Usability des BaSyx-Frameworks für den potenziellen Nutzer entlang des Produktionsprozesses anwenderfreundlicher zu gestalten. Die einzelnen Handlungsschritte der Workflow-gesteuerten Auftragsabwicklung sollten dargestellt, nachvollziehbarer und die notwendigen Informationen pro Prozessschritt aggregiert werden. Darüber hinaus wurde ein Proof of Concept für das Änderungsmanagement entwickelt.
+
+![VWS4LS_TP14_Events_1](https://github.com/user-attachments/assets/10889e10-082d-45ad-bc96-59f8f046058a)     
+_Abbildung: VWS und Events_
+
+**[Detaildokumentation TP14](https://vws4ls.github.io/vws4ls-subproject-results/TP14/)**   
 
 
 ## <a name="TP10"></a>Transfer und Koordination
@@ -262,12 +277,6 @@ _Abbildung: Transfer-X Lernmodule](https://ilias.fraunhofer.de/ilias.php?baseCla
 
 **[Detaildokumentation TP10](https://vws4ls.github.io/vws4ls-subproject-results/TP10/)**   
 
-## <a name="TP11"></a>Anbindung an Catena-X
-Das [TP11 "Anbindung an Catena-X"](https://vws4ls.github.io/vws4ls-subproject-results/TP11/) beschäftigte sich mit der der Kombination der technologische Bausteine Verwaltungsschale und Eclipse-Dataspace Connector (EDC), um diese gemeinsam zu nutzen und vor allem das Accessmanagement bis auf Attributebene zu ermöglichen.
-<img width="901" height="549" alt="image" src="https://github.com/user-attachments/assets/3ba31876-804f-429f-8f0b-c282218e55fe" />    
-_Abbildung: Anbindung VWS an Catena-X_  
-
-**[Detaildokumentation TP11](https://vws4ls.github.io/vws4ls-subproject-results/TP11/)**   
 
 ## <a name="TP12"></a>Produktkatalog mit der VWS
 Das [TP12 "Produktkatalog mit der VW"](https://vws4ls.github.io/vws4ls-subproject-results/TP12/) umfasste alle Aktivitäten zur Sicherstellung des Transfers und der Koordination der Projektergebnisse. Im Fokus standen der kontinuierliche Basistransfer, die Entwicklung und Bereitstellung von allgemeinen und leitungssatzspezifischen Implementierungspaketen sowie die Ergebnisintegration und Koordination. Damit konnten die Ergebnisse des Projekts effektiv verbreitet und nachhaltig in den industriellen und öffentlichen Raum überführt werden. Zu VWS4LS und weiteren relevanten Begleitthemen (z.B. Catena-X) wurden über [Transfer-X](https://transfer-x.de/) hochwertige Lernmodule bereitgestellt:
@@ -287,14 +296,7 @@ _Abbildung: BaSyx: Neue AAS Editor Funktionalitäten_
 
 **[Detaildokumentation TP13](https://vws4ls.github.io/vws4ls-subproject-results/TP13/)**   
 
-## <a name="TP14"></a>Demonstrator
-Im [TP14 "Demonstrator"](https://vws4ls.github.io/vws4ls-subproject-results/TP14/) stand die Weiterentwicklung des Demonstrators  im Mittelpunkt, wobei unter anderem eine Crimp-Maschine, eine BaSyx-Umgebung mit einem neu entwickelten Frontend sowie eine Komax Alpha-Simulation zum Einsatz kamen.
-Die Schwerpunkte des TPs lagen darauf, die Usability des BaSyx-Frameworks für den potenziellen Nutzer entlang des Produktionsprozesses anwenderfreundlicher zu gestalten. Die einzelnen Handlungsschritte der Workflow-gesteuerten Auftragsabwicklung sollten dargestellt, nachvollziehbarer und die notwendigen Informationen pro Prozessschritt aggregiert werden. Darüber hinaus wurde ein Proof of Concept für das Änderungsmanagement entwickelt.
 
-![VWS4LS_TP14_Events_1](https://github.com/user-attachments/assets/10889e10-082d-45ad-bc96-59f8f046058a)     
-_Abbildung: VWS und Events_
-
-**[Detaildokumentation TP14](https://vws4ls.github.io/vws4ls-subproject-results/TP14/)**   
 
 # Publikationen
 

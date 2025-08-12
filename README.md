@@ -11,23 +11,6 @@ Dieses Repository enthält Ergebnisse aus dem Forschungsprojekt [Asset Administr
 Die detaillierten Ergebnisse der Teilprojekte finden sich [hier](https://vws4ls.github.io/vws4ls-subproject-results), ebenso der [Bericht zum Hauptprojekt als PDF (TP01-TP10)](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Gesamtprojekt.pdf), der [Bericht zur Ergebnistagung am 15. Oktober 2024](https://vws4ls.github.io/2024_10_15_Ergebnistagung). 
 und der [Bericht zur Projektverlängerung als PDF (TP11-TP14)](https://vws4ls.github.io/VWS4LS_Abschlussbericht_Projektverlaengerung.pdf)
 
-
-## Liste der VWS4LS-Repositories:
-* [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
-* [https://github.com/VWS4LS/vws4ls-submodel-templates] (Library of submodel templates implemented in C#)
-* [https://github.com/VWS4LS/vws4ls-bidding-process] (Java)
-* [https://github.com/VWS4LS/vws4ls-process-service] (Java)
-* [https://github.com/VWS4LS/vws4ls-data-validation] (Java)
-* [https://github.com/VWS4LS/vws4ls-capability-matching] (JavaScript)
-* [https://github.com/VWS4LS/vws4ls-opcua] (XSLT)
-* [https://github.com/VWS4LS/vws4ls-aaspe-plugin] (C#)
-* [https://github.com/VWS4LS/vws4ls-demonstrator] (Java, Dockerfile)
-* [https://github.com/VWS4LS/vws4ls-changemanagement] (Vue, Typescript)
-* [https://github.com/VWS4LS/vws4ls-event-infrastructure] (Java))
-
-
-[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die detaillierte Ergebnis-Dokumentation zum Projekt VWS4LS bereit, inklusive die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien. 
-
 ## Inhalt
 - [Überblick](#überblick)
 - [Projektpartner](#projektpartner)
@@ -348,3 +331,19 @@ _Abbildung: BaSyx: Neue AAS Editor Funktionalitäten_
 | 15.10.2024        | VWS4LS Ergebnistagung                                                                                                                                                 | Vorstellung der Projekthighlights der Öffentlichkeit                                                                                                                                                                                                           |
 
 
+
+## Liste der VWS4LS-Repositories:
+* [https://github.com/VWS4LS/vws4ls-subproject-results] (Ergebnisdokumentation)
+* [https://github.com/VWS4LS/vws4ls-submodel-templates] (Library of submodel templates implemented in C#)
+* [https://github.com/VWS4LS/vws4ls-bidding-process] (Java)
+* [https://github.com/VWS4LS/vws4ls-process-service] (Java)
+* [https://github.com/VWS4LS/vws4ls-data-validation] (Java)
+* [https://github.com/VWS4LS/vws4ls-capability-matching] (JavaScript)
+* [https://github.com/VWS4LS/vws4ls-opcua] (XSLT)
+* [https://github.com/VWS4LS/vws4ls-aaspe-plugin] (C#)
+* [https://github.com/VWS4LS/vws4ls-demonstrator] (Java, Dockerfile)
+* [https://github.com/VWS4LS/vws4ls-changemanagement] (Vue, Typescript)
+* [https://github.com/VWS4LS/vws4ls-event-infrastructure] (Java))
+
+
+[vws4ls-subproject-results](https://github.com/VWS4LS/vws4ls-subproject-results) stellt die detaillierte Ergebnis-Dokumentation zum Projekt VWS4LS bereit, inklusive die in der Projektdokumentation referenzierten Artefakte wie z.B. JSON- and AASX-Dateien. 
